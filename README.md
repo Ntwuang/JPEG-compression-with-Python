@@ -1,1 +1,1 @@
-# JPEG-compression-with-Python
+Nén JPEG bằng mã Huffman
